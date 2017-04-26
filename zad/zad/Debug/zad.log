@@ -1,0 +1,7 @@
+﻿  zad.cpp
+e:\zzz\nowy folder (2)\lab6\zad\zad\zad.cpp(260): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab6\zad\zad\zad.cpp(265): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\lab6\zad\zad\zad.cpp(326): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+e:\zzz\nowy folder (2)\lab6\zad\zad\zad.cpp(328): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  zad.vcxproj -> E:\zzz\Nowy folder (2)\lab6\zad\Debug\zad.exe
+  zad.vcxproj -> E:\zzz\Nowy folder (2)\lab6\zad\Debug\zad.pdb (Partial PDB)
